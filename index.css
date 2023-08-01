@@ -1,0 +1,155 @@
+.body{
+  margin: 0;
+  font-family:"monospace", "san serif";
+  padding: 1000px;
+  background-color: grey;
+  
+  
+}
+.container{
+  margin: 0;
+  border: 3px solid;
+  width: 700px;
+ 
+  }
+.thumb_zero{
+  width: 300px;
+  margin: 15px 15px 15px 15px;
+  
+
+  }
+  /* button */
+
+.header{
+ display: inline-block;
+ vertical-align: top;
+}
+
+
+
+
+
+
+.container_double{
+  background-color: grey;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.content__items{
+  background-color: rgb(2, 2, 69);
+  max-width: 1000px;
+  margin: 0 auto;
+
+  
+}
+.header__intro{
+  background-color: white;
+  border-color:  rgb(2, 2, 69);
+  border: 5px solid;
+  
+  
+}
+
+.thumbnail__one{
+  color: red;
+  padding: 70px 0 0 70px;
+  font-size: 30px;
+  font-weight: bold;
+}
+ 
+
+.upper{
+  margin-top:100px;
+  margin-left: 40px;
+  color: white;
+  padding: 50px;
+  font-size: 50px;
+
+}
+
+
+
+
+.thumbnail{
+  margin-left: 250px;
+  
+  width: 500px;  
+}
+.thumb{
+  
+ padding-left: 40px;
+  padding-bottom: 50px;
+  font: 600;
+}
+
+.thumb__one{
+  color: red;
+  padding-left: 40px;
+  font-size: 30px;
+}
+.thumb__two{
+  color: white;
+  margin-top: 0;
+  margin-bottom: 25px;
+  margin-left: 40px;
+  
+}
+.thumb__three{
+  color: white;
+  margin-top: 0;
+  margin-left: 40px
+
+}
+.thumb__four{
+  background-color: red;
+  color: white;
+  padding: 20px 30px 20px 30px;
+  margin-left: 40px;
+  margin-bottom: 12px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+.thumb__five{
+  background-color: white;
+  color: black;
+  padding: 20px 30px 20px 30px;
+  margin-left: 40px;
+  margin-bottom: 12px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  
+  
+
+}
+
+.thumb__four:hover{
+  background-color: white;
+  color: black;
+  padding: 20px 30px 20px 30px;
+  margin-left: 40px;
+  margin-bottom: 12px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer; 
+
+}
+.thumb__five:hover{
+
+  background-color: red;
+  color: white;
+  padding: 20px 30px 20px 30px;
+  margin-left: 40px;
+  margin-bottom: 12px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;}
+
+.thumb__six{
+  color: yellow;
+  text-align: end;
+  padding: 12px 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
